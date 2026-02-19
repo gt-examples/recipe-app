@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import { GTProvider } from "gt-next";
+import loadTranslations from "../../loadTranslations";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -25,7 +26,7 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <body className={`${geistSans.variable} antialiased`}>
-        <GTProvider>{children}</GTProvider>
+        <GTProvider loadTranslations={loadTranslations}>{children}</GTProvider>
       </body>
     </html>
   );
