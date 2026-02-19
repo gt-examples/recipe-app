@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import { GTProvider } from "gt-next";
+import { getGT } from "gt-next/server";
 import loadTranslations from "../../loadTranslations";
 import "./globals.css";
 
@@ -9,11 +10,44 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Recipe Browser | GT",
-  description:
-    "Multilingual cooking recipe browser with locale-aware quantities, temperatures, and serving counts",
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const gt = await getGT();
+
+  const title = gt("Recipe Browser | General Translation");
+  const description = gt(
+    "Multilingual cooking recipe browser with locale-aware quantities, temperatures, and serving counts."
+  );
+
+  return {
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      locale,
+      type: "website",
+      siteName: "General Translation",
+    },
+    twitter: {
+      card: "summary",
+      title,
+      description,
+    },
+    alternates: {
+      canonical: "https://recipe-app.generaltranslation.dev",
+      languages: {
+        en: "/en",
+        es: "/es",
+        ja: "/ja",
+      },
+    },
+  };
+}
 
 export default async function RootLayout({
   children,
