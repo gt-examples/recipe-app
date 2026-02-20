@@ -1,4 +1,8 @@
 {
+  "045741aa62df51f8": "Todo",
+  "1054c27df2f44ae8": "Grasas",
+  "29ed6396c2a22514": "Clásico bourguignon de ternera",
+  "34eb76d4c1b87495": "Pollo asado con limón y hierbas",
   "3809816b1ee673af": [
     {
       "c": "Risotto de Setas Silvestres",
@@ -6,479 +10,14 @@
       "t": "h3"
     },
     {
-      "c": "Arroz Arborio cremoso cocinado lentamente con una selección de setas silvestres, vino blanco y queso Parmesano. Rico, terroso y profundamente satisfactorio.",
+      "c": "Arroz Arborio cremoso cocinado lentamente con una variedad de setas silvestres, vino blanco y queso Parmesano. Rico, terroso y profundamente satisfactorio.",
       "i": 2,
       "t": "p"
     }
   ],
-  "3b8aaee655453139": [
-    {
-      "c": "Ingredientes",
-      "i": 1,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            "- ",
-            {
-              "i": 4,
-              "k": "_gt_n_4",
-              "v": "n"
-            },
-            " tazas de arroz Arborio"
-          ],
-          "i": 3,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 6,
-              "k": "_gt_n_6",
-              "v": "n"
-            },
-            " g de champiñones silvestres mixtos"
-          ],
-          "i": 5,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 8,
-              "k": "_gt_n_8",
-              "v": "n"
-            },
-            " tazas de caldo de verduras"
-          ],
-          "i": 7,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 10,
-              "k": "_gt_n_10",
-              "v": "n"
-            },
-            " taza de vino blanco seco"
-          ],
-          "i": 9,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 12,
-              "k": "_gt_n_12",
-              "v": "n"
-            },
-            " chalotas"
-          ],
-          "i": 11,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 14,
-              "k": "_gt_n_14",
-              "v": "n"
-            },
-            " g de queso Parmesano"
-          ],
-          "i": 13,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 16,
-              "k": "_gt_n_16",
-              "v": "n"
-            },
-            " cdas de mantequilla"
-          ],
-          "i": 15,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 18,
-              "k": "_gt_n_18",
-              "v": "n"
-            },
-            " taza de perejil fresco"
-          ],
-          "i": 17,
-          "t": "li"
-        }
-      ],
-      "i": 2,
-      "t": "ul"
-    },
-    {
-      "c": "Instrucciones",
-      "i": 19,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            {
-              "c": "1.",
-              "i": 22,
-              "t": "span"
-            },
-            " Calentar el caldo en una cacerola y mantenerlo caliente a fuego lento."
-          ],
-          "i": 21,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "2.",
-              "i": 24,
-              "t": "span"
-            },
-            " Saltear los champiñones en rodajas en mantequilla hasta que estén dorados y reservar."
-          ],
-          "i": 23,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "3.",
-              "i": 26,
-              "t": "span"
-            },
-            " Cocinar las chalotas en cubos en la misma sartén hasta que estén blandas y translúcidas."
-          ],
-          "i": 25,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "4.",
-              "i": 28,
-              "t": "span"
-            },
-            " Agregar el arroz y remover durante ",
-            {
-              "i": 29,
-              "k": "_gt_n_29",
-              "v": "n"
-            },
-            " minutos hasta que los granos estén ligeramente tostados."
-          ],
-          "i": 27,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "5.",
-              "i": 31,
-              "t": "span"
-            },
-            " Verter el vino y remover hasta que se absorba por completo."
-          ],
-          "i": 30,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "6.",
-              "i": 33,
-              "t": "span"
-            },
-            " Agregar el caldo caliente un cucharón a la vez, removiendo constantemente y esperando a que cada adición se absorba."
-          ],
-          "i": 32,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "7.",
-              "i": 35,
-              "t": "span"
-            },
-            " Incorporar los champiñones, el Parmesano rallado y la mantequilla restante. Sazonar al gusto."
-          ],
-          "i": 34,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "8.",
-              "i": 37,
-              "t": "span"
-            },
-            " Decorar con perejil picado y servir de inmediato."
-          ],
-          "i": 36,
-          "t": "li"
-        }
-      ],
-      "i": 20,
-      "t": "ol"
-    }
-  ],
-  "4d005c56da72e31f": [
-    {
-      "c": "Ingredientes",
-      "i": 1,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            "- ",
-            {
-              "i": 4,
-              "k": "_gt_n_4",
-              "v": "n"
-            },
-            " kg de paleta de cordero"
-          ],
-          "i": 3,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 6,
-              "k": "_gt_n_6",
-              "v": "n"
-            },
-            " g de albaricoques secos"
-          ],
-          "i": 5,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 8,
-              "k": "_gt_n_8",
-              "v": "n"
-            },
-            " cebollas"
-          ],
-          "i": 7,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 10,
-              "k": "_gt_n_10",
-              "v": "n"
-            },
-            " g de tomates en conserva"
-          ],
-          "i": 9,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 12,
-              "k": "_gt_n_12",
-              "v": "n"
-            },
-            " tazas de caldo de pollo"
-          ],
-          "i": 11,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 14,
-              "k": "_gt_n_14",
-              "v": "n"
-            },
-            " cdta de canela molida"
-          ],
-          "i": 13,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 16,
-              "k": "_gt_n_16",
-              "v": "n"
-            },
-            " cdta de comino molido"
-          ],
-          "i": 15,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 18,
-              "k": "_gt_n_18",
-              "v": "n"
-            },
-            " cdta de hebras de azafrán"
-          ],
-          "i": 17,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 20,
-              "k": "_gt_n_20",
-              "v": "n"
-            },
-            " taza de cilantro fresco"
-          ],
-          "i": 19,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 22,
-              "k": "_gt_n_22",
-              "v": "n"
-            },
-            " tazas de cuscús"
-          ],
-          "i": 21,
-          "t": "li"
-        }
-      ],
-      "i": 2,
-      "t": "ul"
-    },
-    {
-      "c": "Instrucciones",
-      "i": 23,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            {
-              "c": "1.",
-              "i": 26,
-              "t": "span"
-            },
-            " Cortar el cordero en trozos grandes y sazonar con sal, pimienta, canela y comino."
-          ],
-          "i": 25,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "2.",
-              "i": 28,
-              "t": "span"
-            },
-            " Dorar el cordero en tandas en una olla pesada o cazuela, luego reservar."
-          ],
-          "i": 27,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "3.",
-              "i": 30,
-              "t": "span"
-            },
-            " Cocinar las cebollas en rodajas en la misma olla hasta que estén blandas y ligeramente caramelizadas."
-          ],
-          "i": 29,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "4.",
-              "i": 32,
-              "t": "span"
-            },
-            " Volver a incorporar el cordero a la olla y agregar los tomates, el caldo, los albaricoques y el azafrán."
-          ],
-          "i": 31,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "5.",
-              "i": 34,
-              "t": "span"
-            },
-            " Tapar y cocinar en el horno hasta que el cordero esté muy tierno y se deshaga fácilmente."
-          ],
-          "i": 33,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "6.",
-              "i": 36,
-              "t": "span"
-            },
-            " Preparar el cuscús según las instrucciones del paquete mientras el tagine termina de cocinarse."
-          ],
-          "i": 35,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "7.",
-              "i": 38,
-              "t": "span"
-            },
-            " Servir el tagine sobre cuscús esponjoso, decorado con cilantro fresco."
-          ],
-          "i": 37,
-          "t": "li"
-        }
-      ],
-      "i": 24,
-      "t": "ol"
-    }
-  ],
+  "40094f9a51054c32": "Calorías",
+  "4b2cd8d2572323ca": "Vegetariano",
+  "4b82795fa768b19c": "Salmón glaseado con miso",
   "5a6e6a46674467a8": [
     {
       "c": {
@@ -548,535 +87,6 @@
           "k": "_gt_n_4",
           "v": "n"
         },
-        " min prep"
-      ],
-      "i": 3,
-      "t": "span"
-    },
-    {
-      "c": [
-        {
-          "i": 6,
-          "k": "_gt_n_6",
-          "v": "n"
-        },
-        " min cocción"
-      ],
-      "i": 5,
-      "t": "span"
-    }
-  ],
-  "705257da9aa8263e": [
-    {
-      "c": "Pollo Asado con Hierbas y Limón",
-      "i": 1,
-      "t": "h3"
-    },
-    {
-      "c": "Un clásico pollo asado con hierbas frescas y un vibrante sabor a limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este plato una cena perfecta para entre semana.",
-      "i": 2,
-      "t": "p"
-    }
-  ],
-  "72db6cdc7ed4acab": "Buscador de recetas",
-  "7f463e052e7ba801": [
-    {
-      "c": "Salmón Glaseado con Miso",
-      "i": 1,
-      "t": "h3"
-    },
-    {
-      "c": "Un glaseado de miso dulce y salado que carameliza perfectamente sobre tiernos filetes de salmón. Un plato rápido y elegante inspirado en la cocina japonesa.",
-      "i": 2,
-      "t": "p"
-    }
-  ],
-  "83da7b0056bca64a": [
-    {
-      "c": "Tagine de Cordero Especiado",
-      "i": 1,
-      "t": "h3"
-    },
-    {
-      "c": "Un estofado norteafricano de cocción lenta con cordero tierno, albaricoques secos y especias cálidas. Aromático con canela, comino y azafrán.",
-      "i": 2,
-      "t": "p"
-    }
-  ],
-  "8547b296d729218c": [
-    {
-      "c": "Ingredientes",
-      "i": 1,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            "- ",
-            {
-              "i": 4,
-              "k": "_gt_n_4",
-              "v": "n"
-            },
-            " pollo entero"
-          ],
-          "i": 3,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 6,
-              "k": "_gt_n_6",
-              "v": "n"
-            },
-            " limones"
-          ],
-          "i": 5,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 8,
-              "k": "_gt_n_8",
-              "v": "n"
-            },
-            " ramitas de romero fresco"
-          ],
-          "i": 7,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 10,
-              "k": "_gt_n_10",
-              "v": "n"
-            },
-            " ramitas de tomillo fresco"
-          ],
-          "i": 9,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 12,
-              "k": "_gt_n_12",
-              "v": "n"
-            },
-            " dientes de ajo"
-          ],
-          "i": 11,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 14,
-              "k": "_gt_n_14",
-              "v": "n"
-            },
-            " cdas de aceite de oliva"
-          ],
-          "i": 13,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 16,
-              "k": "_gt_n_16",
-              "v": "n"
-            },
-            " cdtas de sal"
-          ],
-          "i": 15,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 18,
-              "k": "_gt_n_18",
-              "v": "n"
-            },
-            " cdtas de pimienta negra"
-          ],
-          "i": 17,
-          "t": "li"
-        }
-      ],
-      "i": 2,
-      "t": "ul"
-    },
-    {
-      "c": "Instrucciones",
-      "i": 19,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            {
-              "c": "1.",
-              "i": 22,
-              "t": "span"
-            },
-            " Precalentar el horno. Secar el pollo con papel absorbente."
-          ],
-          "i": 21,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "2.",
-              "i": 24,
-              "t": "span"
-            },
-            " Mezclar el aceite de oliva, el ajo picado, el romero picado y el tomillo en un tazón pequeño."
-          ],
-          "i": 23,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "3.",
-              "i": 26,
-              "t": "span"
-            },
-            " Untar la mezcla de hierbas por todo el pollo, incluso por debajo de la piel."
-          ],
-          "i": 25,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "4.",
-              "i": 28,
-              "t": "span"
-            },
-            " Exprimir un limón sobre el pollo y colocar el otro limón, partido por la mitad, dentro de la cavidad."
-          ],
-          "i": 27,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "5.",
-              "i": 30,
-              "t": "span"
-            },
-            " Asar hasta que la temperatura interna alcance ",
-            {
-              "i": 31,
-              "k": "_gt_n_31",
-              "v": "n"
-            },
-            " grados y la piel esté dorada."
-          ],
-          "i": 29,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "6.",
-              "i": 33,
-              "t": "span"
-            },
-            " Dejar reposar ",
-            {
-              "i": 34,
-              "k": "_gt_n_34",
-              "v": "n"
-            },
-            " minutos antes de trinchar y servir."
-          ],
-          "i": 32,
-          "t": "li"
-        }
-      ],
-      "i": 20,
-      "t": "ol"
-    }
-  ],
-  "9e30722df0fb1b6d": [
-    {
-      "c": "Explorar recetas",
-      "i": 1,
-      "t": "h2"
-    },
-    {
-      "c": "Navega por nuestra colección de recetas de todo el mundo. Las cantidades de ingredientes, las temperaturas de cocción y las porciones se adaptan a tu idioma y región.",
-      "i": 2,
-      "t": "p"
-    }
-  ],
-  "f3b42fc27647111b": [
-    {
-      "c": "Ingredientes",
-      "i": 1,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            "- ",
-            {
-              "i": 4,
-              "k": "_gt_n_4",
-              "v": "n"
-            },
-            " filetes de salmón"
-          ],
-          "i": 3,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 6,
-              "k": "_gt_n_6",
-              "v": "n"
-            },
-            " cdas. de pasta de miso blanco"
-          ],
-          "i": 5,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 8,
-              "k": "_gt_n_8",
-              "v": "n"
-            },
-            " cdas. de mirin"
-          ],
-          "i": 7,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 10,
-              "k": "_gt_n_10",
-              "v": "n"
-            },
-            " cdas. de salsa de soja"
-          ],
-          "i": 9,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 12,
-              "k": "_gt_n_12",
-              "v": "n"
-            },
-            " cdas. de azúcar moreno"
-          ],
-          "i": 11,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 14,
-              "k": "_gt_n_14",
-              "v": "n"
-            },
-            " cdtas. de aceite de sésamo"
-          ],
-          "i": 13,
-          "t": "li"
-        },
-        {
-          "c": [
-            "- ",
-            {
-              "i": 16,
-              "k": "_gt_n_16",
-              "v": "n"
-            },
-            " cebolletas"
-          ],
-          "i": 15,
-          "t": "li"
-        }
-      ],
-      "i": 2,
-      "t": "ul"
-    },
-    {
-      "c": "Instrucciones",
-      "i": 17,
-      "t": "h4"
-    },
-    {
-      "c": [
-        {
-          "c": [
-            {
-              "c": "1.",
-              "i": 20,
-              "t": "span"
-            },
-            " Mezcla con un batidor la pasta de miso, el mirin, la salsa de soja, el azúcar moreno y el aceite de sésamo."
-          ],
-          "i": 19,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "2.",
-              "i": 22,
-              "t": "span"
-            },
-            " Coloca los filetes de salmón en una bandeja de horno con papel y extiende el glaseado de manera uniforme sobre cada filete."
-          ],
-          "i": 21,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "3.",
-              "i": 24,
-              "t": "span"
-            },
-            " Deja marinar el salmón durante al menos ",
-            {
-              "i": 25,
-              "k": "_gt_n_25",
-              "v": "n"
-            },
-            " minutos en el refrigerador."
-          ],
-          "i": 23,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "4.",
-              "i": 27,
-              "t": "span"
-            },
-            " Hornea hasta que el glaseado se caramelice y el salmón se desmenuce fácilmente con un tenedor."
-          ],
-          "i": 26,
-          "t": "li"
-        },
-        {
-          "c": [
-            {
-              "c": "5.",
-              "i": 29,
-              "t": "span"
-            },
-            " Decora con cebolletas en rodajas y sirve de inmediato."
-          ],
-          "i": 28,
-          "t": "li"
-        }
-      ],
-      "i": 18,
-      "t": "ol"
-    }
-  ],
-  "fd8b95b8d696c840": [
-    {
-      "c": {
-        "d": {
-          "b": {
-            "many": {
-              "c": [
-                {
-                  "i": 4,
-                  "k": "_gt_n_4",
-                  "v": "n"
-                },
-                " de porciones"
-              ],
-              "i": 3,
-              "t": "C3"
-            },
-            "other": {
-              "c": [
-                {
-                  "i": 4,
-                  "k": "_gt_n_4",
-                  "v": "n"
-                },
-                " de porciones"
-              ],
-              "i": 3,
-              "t": "C3"
-            },
-            "plural": {
-              "c": [
-                {
-                  "i": 4,
-                  "k": "_gt_n_4",
-                  "v": "n"
-                },
-                " de porciones"
-              ],
-              "i": 3,
-              "t": "C3"
-            },
-            "singular": {
-              "c": [
-                {
-                  "i": 4,
-                  "k": "_gt_n_4",
-                  "v": "n"
-                },
-                " porción"
-              ],
-              "i": 3,
-              "t": "C3"
-            }
-          },
-          "t": "p"
-        },
-        "i": 2,
-        "t": "Plural"
-      },
-      "i": 1,
-      "t": "span"
-    },
-    {
-      "c": [
-        {
-          "i": 4,
-          "k": "_gt_n_4",
-          "v": "n"
-        },
         " min de preparación"
       ],
       "i": 3,
@@ -1093,18 +103,1831 @@
       ],
       "i": 5,
       "t": "span"
+    }
+  ],
+  "608d74b7da9de8a2": {
+    "c": "No se encontraron recetas en esta categoría.",
+    "i": 1,
+    "t": "p"
+  },
+  "611c4e01c4512893": "Aves",
+  "6909f175ab6f34f1": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " °F"
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "6ae23cf38ae5419a": [
+    {
+      "c": "Curry Verde Tailandés",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Un aromático curry de leche de coco repleto de verduras frescas, albahaca tailandesa y pasta de curry verde. Ligero pero con un sabor profundo e intenso.",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": "Ingredientes",
+      "i": 3,
+      "t": "h2"
     },
     {
       "c": [
         {
-          "i": 8,
-          "k": "_gt_n_8",
-          "v": "n"
+          "c": [
+            "- ",
+            {
+              "i": 6,
+              "k": "_gt_n_6",
+              "v": "n"
+            },
+            " ml de leche de coco"
+          ],
+          "i": 5,
+          "t": "li"
         },
-        " °F"
+        {
+          "c": [
+            "- ",
+            {
+              "i": 8,
+              "k": "_gt_n_8",
+              "v": "n"
+            },
+            " cdas de pasta de curry verde"
+          ],
+          "i": 7,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 10,
+              "k": "_gt_n_10",
+              "v": "n"
+            },
+            " g de tofu firme, en cubos"
+          ],
+          "i": 9,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " berenjena japonesa, en rodajas"
+          ],
+          "i": 11,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 14,
+              "k": "_gt_n_14",
+              "v": "n"
+            },
+            " pimiento rojo, en tiras"
+          ],
+          "i": 13,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 16,
+              "k": "_gt_n_16",
+              "v": "n"
+            },
+            " g de ejotes, sin puntas"
+          ],
+          "i": 15,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 18,
+              "k": "_gt_n_18",
+              "v": "n"
+            },
+            " cdas de salsa de pescado"
+          ],
+          "i": 17,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 20,
+              "k": "_gt_n_20",
+              "v": "n"
+            },
+            " cdas de azúcar de palma"
+          ],
+          "i": 19,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 22,
+              "k": "_gt_n_22",
+              "v": "n"
+            },
+            " taza de hojas de albahaca tailandesa"
+          ],
+          "i": 21,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 24,
+              "k": "_gt_n_24",
+              "v": "n"
+            },
+            " hojas de lima kaffir"
+          ],
+          "i": 23,
+          "t": "li"
+        }
       ],
-      "i": 7,
-      "t": "span"
+      "i": 4,
+      "t": "ul"
+    },
+    {
+      "c": "Instrucciones",
+      "i": 25,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "1.",
+              "i": 28,
+              "t": "span"
+            },
+            "Calienta un chorrito de leche de coco en un wok o sartén grande a fuego medio-alto."
+          ],
+          "i": 27,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "2.",
+              "i": 30,
+              "t": "span"
+            },
+            "Agrega la pasta de curry verde y sofríe durante ",
+            {
+              "i": 31,
+              "k": "_gt_n_31",
+              "v": "n"
+            },
+            " minuto hasta que desprenda su aroma."
+          ],
+          "i": 29,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "3.",
+              "i": 33,
+              "t": "span"
+            },
+            "Vierte el resto de la leche de coco y lleva a fuego lento suave."
+          ],
+          "i": 32,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "4.",
+              "i": 35,
+              "t": "span"
+            },
+            "Agrega la berenjena y los ejotes. Cocina durante ",
+            {
+              "i": 36,
+              "k": "_gt_n_36",
+              "v": "n"
+            },
+            " minutos hasta que estén ligeramente tiernos."
+          ],
+          "i": 34,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "5.",
+              "i": 38,
+              "t": "span"
+            },
+            "Incorpora el tofu, el pimiento, la salsa de pescado, el azúcar de palma y las hojas de lima kaffir."
+          ],
+          "i": 37,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "6.",
+              "i": 40,
+              "t": "span"
+            },
+            "Cocina a fuego lento ",
+            {
+              "i": 41,
+              "k": "_gt_n_41",
+              "v": "n"
+            },
+            " minutos más. Retira del fuego e incorpora la albahaca tailandesa."
+          ],
+          "i": 39,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "7.",
+              "i": 43,
+              "t": "span"
+            },
+            "Sirve sobre arroz jazmín al vapor."
+          ],
+          "i": 42,
+          "t": "li"
+        }
+      ],
+      "i": 26,
+      "t": "ol"
+    },
+    {
+      "c": "Consejos",
+      "i": 44,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": "- Freír la pasta de curry en crema de coco primero potencia el sabor de los aromáticos.",
+          "i": 46,
+          "t": "li"
+        },
+        {
+          "c": "- Sustituye el tofu por pollo o camarones si prefieres una versión no vegetariana.",
+          "i": 47,
+          "t": "li"
+        },
+        {
+          "c": "- La albahaca tailandesa fresca es indispensable. No la sustituyas por albahaca italiana.",
+          "i": 48,
+          "t": "li"
+        }
+      ],
+      "i": 45,
+      "t": "ul"
     }
-  ]
+  ],
+  "705257da9aa8263e": [
+    {
+      "c": "Pollo Asado con Hierbas y Limón",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": "Un clásico pollo asado con hierbas frescas y un vibrante sabor a limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este platillo una cena perfecta para entre semana.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "72db6cdc7ed4acab": "Explorador de recetas",
+  "73b5b76f35acd6b8": [
+    {
+      "c": "Salmón Glaseado con Miso",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "El glaseado de miso, dulce y salado, se carameliza perfectamente sobre tiernos filetes de salmón. Un plato rápido y elegante inspirado en la cocina japonesa.",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": "Ingredientes",
+      "i": 3,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            "- ",
+            {
+              "i": 6,
+              "k": "_gt_n_6",
+              "v": "n"
+            },
+            " filetes de salmón (aproximadamente ",
+            {
+              "i": 7,
+              "k": "_gt_n_7",
+              "v": "n"
+            },
+            " g cada uno)"
+          ],
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 9,
+              "k": "_gt_n_9",
+              "v": "n"
+            },
+            " cdas. de pasta de miso blanco"
+          ],
+          "i": 8,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 11,
+              "k": "_gt_n_11",
+              "v": "n"
+            },
+            " cdas. de mirin"
+          ],
+          "i": 10,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 13,
+              "k": "_gt_n_13",
+              "v": "n"
+            },
+            " cdas. de salsa de soja"
+          ],
+          "i": 12,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 15,
+              "k": "_gt_n_15",
+              "v": "n"
+            },
+            " cdas. de azúcar moreno"
+          ],
+          "i": 14,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 17,
+              "k": "_gt_n_17",
+              "v": "n"
+            },
+            " cdtas. de aceite de sésamo"
+          ],
+          "i": 16,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 19,
+              "k": "_gt_n_19",
+              "v": "n"
+            },
+            " cebolletas"
+          ],
+          "i": 18,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 21,
+              "k": "_gt_n_21",
+              "v": "n"
+            },
+            " cdtas. de semillas de sésamo"
+          ],
+          "i": 20,
+          "t": "li"
+        }
+      ],
+      "i": 4,
+      "t": "ul"
+    },
+    {
+      "c": "Instrucciones",
+      "i": 22,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "1.",
+              "i": 25,
+              "t": "span"
+            },
+            "Mezcla con un batidor la pasta de miso, el mirin, la salsa de soja, el azúcar moreno y el aceite de sésamo."
+          ],
+          "i": 24,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "2.",
+              "i": 27,
+              "t": "span"
+            },
+            "Coloca los filetes de salmón sobre una bandeja de horno con papel y extiende el glaseado de manera uniforme sobre cada filete."
+          ],
+          "i": 26,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "3.",
+              "i": 29,
+              "t": "span"
+            },
+            "Deja marinar el salmón durante al menos ",
+            {
+              "i": 30,
+              "k": "_gt_n_30",
+              "v": "n"
+            },
+            " minutos en el refrigerador."
+          ],
+          "i": 28,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "4.",
+              "i": 32,
+              "t": "span"
+            },
+            "Precalienta el horno a ",
+            {
+              "i": 33,
+              "k": "_gt_n_33",
+              "v": "n"
+            },
+            " °F. Hornea hasta que el glaseado se caramelice y el salmón se desmenuce fácilmente con un tenedor."
+          ],
+          "i": 31,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "5.",
+              "i": 35,
+              "t": "span"
+            },
+            "Decora con cebolletas en rodajas y semillas de sésamo. Sirve de inmediato."
+          ],
+          "i": 34,
+          "t": "li"
+        }
+      ],
+      "i": 23,
+      "t": "ol"
+    },
+    {
+      "c": "Consejos",
+      "i": 36,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": "- Usa salmón salvaje para obtener el mejor sabor y textura.",
+          "i": 38,
+          "t": "li"
+        },
+        {
+          "c": "- Para un sabor más intenso, marina el salmón toda la noche en el refrigerador.",
+          "i": 39,
+          "t": "li"
+        },
+        {
+          "c": "- Sirve con arroz al vapor y jengibre encurtido para una comida completa.",
+          "i": 40,
+          "t": "li"
+        }
+      ],
+      "i": 37,
+      "t": "ul"
+    }
+  ],
+  "7aa13e036cbc285f": [
+    {
+      "c": "Clásico Boeuf Bourguignon",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": "Un rico estofado francés de ternera braseada en vino tinto con cebollitas perla, champiñones y tocino. Contundente, elegante y perfecto para las noches frías.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "7acc8c732db52d46": [
+    {
+      "c": "Curry Verde Tailandés",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": "Un curry de leche de coco aromático, repleto de verduras frescas, albahaca tailandesa y pasta de curry verde. Ligero pero con un sabor profundo e intenso.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "7b920068680a1374": "Carne",
+  "7f2fa3b07537a868": "Proteínas",
+  "7f463e052e7ba801": [
+    {
+      "c": "Salmón Glaseado con Miso",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": "Un glaseado de miso dulce y salado que carameliza perfectamente sobre tiernos filetes de salmón. Un plato rápido y elegante inspirado en la cocina japonesa.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "8163afc69fb530be": "Risotto de setas silvestres",
+  "83da7b0056bca64a": [
+    {
+      "c": "Tagine de Cordero Especiado",
+      "i": 1,
+      "t": "h3"
+    },
+    {
+      "c": "Un estofado norteafricano de cocción lenta con cordero tierno, albaricoques secos y especias aromáticas. Perfumado con canela, comino y azafrán.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "86883279447e6618": "Curry verde tailandés",
+  "8b3b096e8da73475": "kcal",
+  "98629127ba5aa565": "Explorador de recetas multilingüe que ajusta cantidades, temperaturas y recuentos de porciones según la configuración regional.",
+  "9cd16660550ba70e": "Carbohidratos",
+  "9cffb339161c1de7": [
+    {
+      "c": "Boeuf Bourguignon Clásico",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Un rico estofado francés de ternera braseada en vino tinto con cebollitas, champiñones y tocino. Contundente, elegante y perfecto para las noches frías.",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": "Ingredientes",
+      "i": 3,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            "- ",
+            {
+              "i": 6,
+              "k": "_gt_n_6",
+              "v": "n"
+            },
+            " kg de aguja de ternera, en cubos"
+          ],
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 8,
+              "k": "_gt_n_8",
+              "v": "n"
+            },
+            " ml de vino tinto de Borgoña"
+          ],
+          "i": 7,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 10,
+              "k": "_gt_n_10",
+              "v": "n"
+            },
+            " g de tocino grueso, en dados"
+          ],
+          "i": 9,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " g de cebollitas perla, peladas"
+          ],
+          "i": 11,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 14,
+              "k": "_gt_n_14",
+              "v": "n"
+            },
+            " g de champiñones cremini, en cuartos"
+          ],
+          "i": 13,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 16,
+              "k": "_gt_n_16",
+              "v": "n"
+            },
+            " zanahorias, cortadas en trozos"
+          ],
+          "i": 15,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 18,
+              "k": "_gt_n_18",
+              "v": "n"
+            },
+            " dientes de ajo, picados"
+          ],
+          "i": 17,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 20,
+              "k": "_gt_n_20",
+              "v": "n"
+            },
+            " cdas de pasta de tomate"
+          ],
+          "i": 19,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 22,
+              "k": "_gt_n_22",
+              "v": "n"
+            },
+            " tazas de caldo de res"
+          ],
+          "i": 21,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 24,
+              "k": "_gt_n_24",
+              "v": "n"
+            },
+            " cdas de harina"
+          ],
+          "i": 23,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 26,
+              "k": "_gt_n_26",
+              "v": "n"
+            },
+            " ramitas de tomillo fresco"
+          ],
+          "i": 25,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 28,
+              "k": "_gt_n_28",
+              "v": "n"
+            },
+            " hojas de laurel"
+          ],
+          "i": 27,
+          "t": "li"
+        }
+      ],
+      "i": 4,
+      "t": "ul"
+    },
+    {
+      "c": "Instrucciones",
+      "i": 29,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "1.",
+              "i": 32,
+              "t": "span"
+            },
+            "Marina la ternera en el vino con el tomillo y las hojas de laurel en el refrigerador durante al menos ",
+            {
+              "i": 33,
+              "k": "_gt_n_33",
+              "v": "n"
+            },
+            " horas o toda la noche."
+          ],
+          "i": 31,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "2.",
+              "i": 35,
+              "t": "span"
+            },
+            "Retira la ternera de la marinada y sécala con papel absorbente. Reserva el vino."
+          ],
+          "i": 34,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "3.",
+              "i": 37,
+              "t": "span"
+            },
+            "Cocina el tocino en una olla de hierro hasta que esté crujiente y resérvalo."
+          ],
+          "i": 36,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "4.",
+              "i": 39,
+              "t": "span"
+            },
+            "Dora la ternera en la grasa del tocino en tandas. No amontones demasiado la olla."
+          ],
+          "i": 38,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "5.",
+              "i": 41,
+              "t": "span"
+            },
+            "Saltea las zanahorias, las cebollitas perla y el ajo hasta que estén ligeramente dorados."
+          ],
+          "i": 40,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "6.",
+              "i": 43,
+              "t": "span"
+            },
+            "Incorpora la pasta de tomate y la harina. Cocina durante ",
+            {
+              "i": 44,
+              "k": "_gt_n_44",
+              "v": "n"
+            },
+            " minutos."
+          ],
+          "i": 42,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "7.",
+              "i": 46,
+              "t": "span"
+            },
+            "Agrega el vino reservado, el caldo, la ternera y el tocino. Lleva a fuego lento."
+          ],
+          "i": 45,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "8.",
+              "i": 48,
+              "t": "span"
+            },
+            "Tapa y brasea en el horno a ",
+            {
+              "i": 49,
+              "k": "_gt_n_49",
+              "v": "n"
+            },
+            " °F durante ",
+            {
+              "i": 50,
+              "k": "_gt_n_50",
+              "v": "n"
+            },
+            " horas, hasta que la ternera esté tierna."
+          ],
+          "i": 47,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "9.",
+              "i": 52,
+              "t": "span"
+            },
+            "Agrega los champiñones en los últimos ",
+            {
+              "i": 53,
+              "k": "_gt_n_53",
+              "v": "n"
+            },
+            " minutos de cocción."
+          ],
+          "i": 51,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "10.",
+              "i": 55,
+              "t": "span"
+            },
+            "Sirve con pan crujiente o fideos con mantequilla."
+          ],
+          "i": 54,
+          "t": "li"
+        }
+      ],
+      "i": 30,
+      "t": "ol"
+    },
+    {
+      "c": "Consejos",
+      "i": 56,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": "- Usa un Borgoña de cuerpo completo o un Pinot Noir para mejores resultados.",
+          "i": 58,
+          "t": "li"
+        },
+        {
+          "c": "- Marinar toda la noche marca una diferencia notable en la profundidad del sabor.",
+          "i": 59,
+          "t": "li"
+        },
+        {
+          "c": "- Este estofado se recalienta muy bien y está aún mejor al día siguiente.",
+          "i": 60,
+          "t": "li"
+        }
+      ],
+      "i": 57,
+      "t": "ul"
+    }
+  ],
+  "9e30722df0fb1b6d": [
+    {
+      "c": "Explorar recetas",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Navega por nuestra colección de recetas de todo el mundo. Las cantidades de ingredientes, las temperaturas de cocción y las porciones se adaptan a tu idioma y región.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "b29b73ea6c6f97de": "← Volver a todas las recetas",
+  "c6d4947a8e353eeb": [
+    {
+      "c": "Pollo Asado con Hierbas y Limón",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Un clásico pollo asado con hierbas frescas y un vibrante sabor a limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este plato una cena perfecta para cualquier día de la semana.",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": "Ingredientes",
+      "i": 3,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            "- ",
+            {
+              "i": 6,
+              "k": "_gt_n_6",
+              "v": "n"
+            },
+            " pollo entero (de aproximadamente ",
+            {
+              "i": 7,
+              "k": "_gt_n_7",
+              "v": "n"
+            },
+            " kg)"
+          ],
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 9,
+              "k": "_gt_n_9",
+              "v": "n"
+            },
+            " limones"
+          ],
+          "i": 8,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 11,
+              "k": "_gt_n_11",
+              "v": "n"
+            },
+            " ramas de romero fresco"
+          ],
+          "i": 10,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 13,
+              "k": "_gt_n_13",
+              "v": "n"
+            },
+            " ramas de tomillo fresco"
+          ],
+          "i": 12,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 15,
+              "k": "_gt_n_15",
+              "v": "n"
+            },
+            " dientes de ajo"
+          ],
+          "i": 14,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 17,
+              "k": "_gt_n_17",
+              "v": "n"
+            },
+            " cdas de aceite de oliva"
+          ],
+          "i": 16,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 19,
+              "k": "_gt_n_19",
+              "v": "n"
+            },
+            " cdtas de sal"
+          ],
+          "i": 18,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 21,
+              "k": "_gt_n_21",
+              "v": "n"
+            },
+            " cdtas de pimienta negra"
+          ],
+          "i": 20,
+          "t": "li"
+        }
+      ],
+      "i": 4,
+      "t": "ul"
+    },
+    {
+      "c": "Instrucciones",
+      "i": 22,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "1.",
+              "i": 25,
+              "t": "span"
+            },
+            "Precalentar el horno a ",
+            {
+              "i": 26,
+              "k": "_gt_n_26",
+              "v": "n"
+            },
+            " °F. Secar el pollo con papel de cocina."
+          ],
+          "i": 24,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "2.",
+              "i": 28,
+              "t": "span"
+            },
+            "Mezclar el aceite de oliva, el ajo picado, el romero picado y el tomillo en un bol pequeño."
+          ],
+          "i": 27,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "3.",
+              "i": 30,
+              "t": "span"
+            },
+            "Untar la mezcla de hierbas por todo el pollo, incluso por debajo de la piel."
+          ],
+          "i": 29,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "4.",
+              "i": 32,
+              "t": "span"
+            },
+            "Exprimir un limón sobre el pollo y colocar el otro limón, cortado por la mitad, dentro de la cavidad."
+          ],
+          "i": 31,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "5.",
+              "i": 34,
+              "t": "span"
+            },
+            "Asar hasta que la temperatura interna alcance ",
+            {
+              "i": 35,
+              "k": "_gt_n_35",
+              "v": "n"
+            },
+            " °F y la piel esté dorada."
+          ],
+          "i": 33,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "6.",
+              "i": 37,
+              "t": "span"
+            },
+            "Dejar reposar ",
+            {
+              "i": 38,
+              "k": "_gt_n_38",
+              "v": "n"
+            },
+            " minutos antes de trinchar y servir."
+          ],
+          "i": 36,
+          "t": "li"
+        }
+      ],
+      "i": 23,
+      "t": "ol"
+    },
+    {
+      "c": "Consejos",
+      "i": 39,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": "- Llevar el pollo a temperatura ambiente antes de asarlo para una cocción más uniforme.",
+          "i": 41,
+          "t": "li"
+        },
+        {
+          "c": "- Atar las patas con hilo de cocina para que el pollo se cocine de manera uniforme.",
+          "i": 42,
+          "t": "li"
+        },
+        {
+          "c": "- Guardar los jugos de la bandeja para preparar una salsa rápida mezclando harina y caldo.",
+          "i": 43,
+          "t": "li"
+        }
+      ],
+      "i": 40,
+      "t": "ul"
+    }
+  ],
+  "cb5ef1bca83a2898": "Mariscos",
+  "cf7cb589d2908715": "Explorador de recetas | Traducción genérica",
+  "d7d74410bb137358": [
+    {
+      "c": "Risotto de Setas Silvestres",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Arroz Arborio cremoso cocinado lentamente con una variedad de setas silvestres, vino blanco y queso Parmesano. Rico, terroso y profundamente satisfactorio.",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": "Ingredientes",
+      "i": 3,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            "- ",
+            {
+              "i": 6,
+              "k": "_gt_n_6",
+              "v": "n"
+            },
+            " tazas de arroz Arborio"
+          ],
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 8,
+              "k": "_gt_n_8",
+              "v": "n"
+            },
+            " g de setas silvestres variadas"
+          ],
+          "i": 7,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 10,
+              "k": "_gt_n_10",
+              "v": "n"
+            },
+            " tazas de caldo de verduras"
+          ],
+          "i": 9,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " taza de vino blanco seco"
+          ],
+          "i": 11,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 14,
+              "k": "_gt_n_14",
+              "v": "n"
+            },
+            " chalotas, finamente picadas"
+          ],
+          "i": 13,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 16,
+              "k": "_gt_n_16",
+              "v": "n"
+            },
+            " g de queso Parmesano rallado"
+          ],
+          "i": 15,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 18,
+              "k": "_gt_n_18",
+              "v": "n"
+            },
+            " cdas de mantequilla"
+          ],
+          "i": 17,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 20,
+              "k": "_gt_n_20",
+              "v": "n"
+            },
+            " taza de perejil fresco picado"
+          ],
+          "i": 19,
+          "t": "li"
+        }
+      ],
+      "i": 4,
+      "t": "ul"
+    },
+    {
+      "c": "Instrucciones",
+      "i": 21,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "1.",
+              "i": 24,
+              "t": "span"
+            },
+            "Calienta el caldo en una cacerola y mantenlo caliente a fuego lento."
+          ],
+          "i": 23,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "2.",
+              "i": 26,
+              "t": "span"
+            },
+            "Saltea las setas laminadas en mantequilla hasta que estén doradas y resérvalas."
+          ],
+          "i": 25,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "3.",
+              "i": 28,
+              "t": "span"
+            },
+            "Cocina las chalotas picadas en la misma sartén hasta que estén blandas y translúcidas."
+          ],
+          "i": 27,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "4.",
+              "i": 30,
+              "t": "span"
+            },
+            "Añade el arroz y remueve durante ",
+            {
+              "i": 31,
+              "k": "_gt_n_31",
+              "v": "n"
+            },
+            " minutos hasta que los granos estén ligeramente tostados."
+          ],
+          "i": 29,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "5.",
+              "i": 33,
+              "t": "span"
+            },
+            "Vierte el vino y remueve hasta que se absorba por completo."
+          ],
+          "i": 32,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "6.",
+              "i": 35,
+              "t": "span"
+            },
+            "Agrega el caldo caliente un cucharón a la vez, removiendo constantemente y esperando a que cada adición se absorba."
+          ],
+          "i": 34,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "7.",
+              "i": 37,
+              "t": "span"
+            },
+            "Cuando el arroz esté cremoso y al dente, incorpora las setas, el Parmesano rallado y el resto de la mantequilla."
+          ],
+          "i": 36,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "8.",
+              "i": 39,
+              "t": "span"
+            },
+            "Decora con perejil picado y sirve de inmediato."
+          ],
+          "i": 38,
+          "t": "li"
+        }
+      ],
+      "i": 22,
+      "t": "ol"
+    },
+    {
+      "c": "Consejos",
+      "i": 40,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": "- Nunca laves las setas bajo el agua del grifo. Límpialas con un paño húmedo.",
+          "i": 42,
+          "t": "li"
+        },
+        {
+          "c": "- Remueve el risotto constantemente para obtener la textura más cremosa.",
+          "i": 43,
+          "t": "li"
+        },
+        {
+          "c": "- Usa una mezcla de rebozuelos, porcini y shiitake para un sabor más complejo.",
+          "i": 44,
+          "t": "li"
+        }
+      ],
+      "i": 41,
+      "t": "ul"
+    }
+  ],
+  "db4c5e9a6797cb34": "Fibra",
+  "e1d62b1727574c7a": {
+    "c": "Nutrición por porción",
+    "i": 1,
+    "t": "h3"
+  },
+  "f1dac36fa9951bae": {
+    "c": "Ver receta →",
+    "i": 1,
+    "t": "span"
+  },
+  "f70a39abe71d3611": [
+    {
+      "c": "Tajín de Cordero con Especias",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Un estofado norteafricano de cocción lenta con cordero tierno, albaricoques secos y especias aromáticas. Perfumado con canela, comino y azafrán.",
+      "i": 2,
+      "t": "p"
+    },
+    {
+      "c": "Ingredientes",
+      "i": 3,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            "- ",
+            {
+              "i": 6,
+              "k": "_gt_n_6",
+              "v": "n"
+            },
+            " kg de paletilla de cordero, en cubos"
+          ],
+          "i": 5,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 8,
+              "k": "_gt_n_8",
+              "v": "n"
+            },
+            " g de albaricoques secos"
+          ],
+          "i": 7,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 10,
+              "k": "_gt_n_10",
+              "v": "n"
+            },
+            " cebollas, en rodajas"
+          ],
+          "i": 9,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 12,
+              "k": "_gt_n_12",
+              "v": "n"
+            },
+            " g de tomates en conserva"
+          ],
+          "i": 11,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 14,
+              "k": "_gt_n_14",
+              "v": "n"
+            },
+            " tazas de caldo de pollo"
+          ],
+          "i": 13,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 16,
+              "k": "_gt_n_16",
+              "v": "n"
+            },
+            " cdta. de canela molida"
+          ],
+          "i": 15,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 18,
+              "k": "_gt_n_18",
+              "v": "n"
+            },
+            " cdta. de comino molido"
+          ],
+          "i": 17,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 20,
+              "k": "_gt_n_20",
+              "v": "n"
+            },
+            " cdta. de hebras de azafrán"
+          ],
+          "i": 19,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 22,
+              "k": "_gt_n_22",
+              "v": "n"
+            },
+            " taza de cilantro fresco"
+          ],
+          "i": 21,
+          "t": "li"
+        },
+        {
+          "c": [
+            "- ",
+            {
+              "i": 24,
+              "k": "_gt_n_24",
+              "v": "n"
+            },
+            " tazas de cuscús"
+          ],
+          "i": 23,
+          "t": "li"
+        }
+      ],
+      "i": 4,
+      "t": "ul"
+    },
+    {
+      "c": "Instrucciones",
+      "i": 25,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "1.",
+              "i": 28,
+              "t": "span"
+            },
+            "Corta el cordero en trozos grandes y sazónalo con sal, pimienta, canela y comino."
+          ],
+          "i": 27,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "2.",
+              "i": 30,
+              "t": "span"
+            },
+            "Dora el cordero en tandas en una olla de fondo grueso o cazuela, luego resérvalo."
+          ],
+          "i": 29,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "3.",
+              "i": 32,
+              "t": "span"
+            },
+            "Cocina las cebollas en rodajas en la misma olla hasta que estén blandas y ligeramente caramelizadas."
+          ],
+          "i": 31,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "4.",
+              "i": 34,
+              "t": "span"
+            },
+            "Devuelve el cordero a la olla y añade los tomates, el caldo, los albaricoques y el azafrán."
+          ],
+          "i": 33,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "5.",
+              "i": 36,
+              "t": "span"
+            },
+            "Tapa y cocina en el horno a ",
+            {
+              "i": 37,
+              "k": "_gt_n_37",
+              "v": "n"
+            },
+            " °F durante aproximadamente ",
+            {
+              "i": 38,
+              "k": "_gt_n_38",
+              "v": "n"
+            },
+            " horas, hasta que el cordero esté muy tierno."
+          ],
+          "i": 35,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "6.",
+              "i": 40,
+              "t": "span"
+            },
+            "Prepara el cuscús según las instrucciones del paquete mientras el tajín termina de cocinarse."
+          ],
+          "i": 39,
+          "t": "li"
+        },
+        {
+          "c": [
+            {
+              "c": "7.",
+              "i": 42,
+              "t": "span"
+            },
+            "Sirve el tajín sobre cuscús esponjoso, decorado con cilantro fresco."
+          ],
+          "i": 41,
+          "t": "li"
+        }
+      ],
+      "i": 26,
+      "t": "ol"
+    },
+    {
+      "c": "Consejos",
+      "i": 43,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": "- La paletilla de cordero es ideal porque el tejido conectivo se deshace durante la cocción lenta.",
+          "i": 45,
+          "t": "li"
+        },
+        {
+          "c": "- Tuesta las especias en una sartén seca antes de añadirlas para obtener un aroma más intenso.",
+          "i": 46,
+          "t": "li"
+        },
+        {
+          "c": "- Este plato sabe aún mejor al día siguiente, cuando los sabores siguen desarrollándose.",
+          "i": 47,
+          "t": "li"
+        }
+      ],
+      "i": 44,
+      "t": "ul"
+    }
+  ],
+  "f7e213e4b0bfb007": "Tajín de cordero especiado"
 }

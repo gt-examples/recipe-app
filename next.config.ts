@@ -1,7 +1,7 @@
-import type { NextConfig } from "next";
+import { withGTConfig } from "gt-next/config";
 
-const nextConfig: NextConfig = {
-  /* config options here */
-};
+const nextConfig = withGTConfig({
+  loadTranslationsPath: "./src/loadTranslations.ts",
+});
 
 export default nextConfig;
