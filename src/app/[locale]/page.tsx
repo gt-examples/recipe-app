@@ -20,6 +20,23 @@ export default async function Home() {
             </p>
           </T>
         </div>
+        <footer className="mt-16 border-t border-neutral-800 pt-8 pb-4 text-xs text-neutral-600 leading-relaxed">
+          <T>
+            <p>
+              Built with{" "}
+              <a href="https://generaltranslation.com" className="underline hover:text-neutral-400" target="_blank" rel="noopener noreferrer">General Translation</a>
+              {" "}and{" "}
+              <a href="https://nextjs.org" className="underline hover:text-neutral-400" target="_blank" rel="noopener noreferrer">Next.js</a>
+              . Styled with{" "}
+              <a href="https://tailwindcss.com" className="underline hover:text-neutral-400" target="_blank" rel="noopener noreferrer">Tailwind CSS</a>
+              . Recipe inspiration from{" "}
+              <a href="https://www.allrecipes.com" className="underline hover:text-neutral-400" target="_blank" rel="noopener noreferrer">Allrecipes</a>
+              {" "}and{" "}
+              <a href="https://www.seriouseats.com" className="underline hover:text-neutral-400" target="_blank" rel="noopener noreferrer">Serious Eats</a>
+              .
+            </p>
+          </T>
+        </footer>
         <RecipeList recipes={recipes} />
       </main>
     </div>

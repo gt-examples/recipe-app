@@ -1,8 +1,24 @@
 {
-  "045741aa62df51f8": "Todo",
+  "045741aa62df51f8": "Todos",
+  "0c730b7f189776b6": "Ver en GitHub",
   "1054c27df2f44ae8": "Grasas",
-  "29ed6396c2a22514": "Clásico bourguignon de ternera",
-  "34eb76d4c1b87495": "Pollo asado con limón y hierbas",
+  "29ed6396c2a22514": "Boeuf bourguignon clásico",
+  "2f18466914eb64c9": [
+    "Esta es una aplicación de ejemplo creada con ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    ". Ver el ",
+    {
+      "c": "código fuente en GitHub",
+      "i": 2,
+      "t": "a"
+    },
+    "."
+  ],
+  "34eb76d4c1b87495": "Pollo asado al limón y hierbas",
   "3809816b1ee673af": [
     {
       "c": "Risotto de Setas Silvestres",
@@ -422,7 +438,7 @@
       "t": "h3"
     },
     {
-      "c": "Un clásico pollo asado con hierbas frescas y un vibrante sabor a limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este platillo una cena perfecta para entre semana.",
+      "c": "Un clásico pollo asado con hierbas frescas y un vibrante sabor a limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este plato una cena perfecta para cualquier día de la semana.",
       "i": 2,
       "t": "p"
     }
@@ -574,7 +590,7 @@
               "i": 25,
               "t": "span"
             },
-            "Mezcla con un batidor la pasta de miso, el mirin, la salsa de soja, el azúcar moreno y el aceite de sésamo."
+            "Mezclar con un batidor la pasta de miso, el mirin, la salsa de soja, el azúcar moreno y el aceite de sésamo."
           ],
           "i": 24,
           "t": "li"
@@ -586,7 +602,7 @@
               "i": 27,
               "t": "span"
             },
-            "Coloca los filetes de salmón sobre una bandeja de horno con papel y extiende el glaseado de manera uniforme sobre cada filete."
+            "Colocar los filetes de salmón sobre una bandeja de horno con papel y extender el glaseado de manera uniforme sobre cada filete."
           ],
           "i": 26,
           "t": "li"
@@ -598,7 +614,7 @@
               "i": 29,
               "t": "span"
             },
-            "Deja marinar el salmón durante al menos ",
+            "Dejar marinar el salmón durante al menos ",
             {
               "i": 30,
               "k": "_gt_n_30",
@@ -616,13 +632,13 @@
               "i": 32,
               "t": "span"
             },
-            "Precalienta el horno a ",
+            "Precalentar el horno a ",
             {
               "i": 33,
               "k": "_gt_n_33",
               "v": "n"
             },
-            " °F. Hornea hasta que el glaseado se caramelice y el salmón se desmenuce fácilmente con un tenedor."
+            " °F. Hornear hasta que el glaseado se caramelice y el salmón se desmenuce fácilmente con un tenedor."
           ],
           "i": 31,
           "t": "li"
@@ -634,7 +650,7 @@
               "i": 35,
               "t": "span"
             },
-            "Decora con cebolletas en rodajas y semillas de sésamo. Sirve de inmediato."
+            "Decorar con cebolletas en rodajas y semillas de sésamo. Servir de inmediato."
           ],
           "i": 34,
           "t": "li"
@@ -651,17 +667,17 @@
     {
       "c": [
         {
-          "c": "- Usa salmón salvaje para obtener el mejor sabor y textura.",
+          "c": "- Usar salmón salvaje para obtener el mejor sabor y textura.",
           "i": 38,
           "t": "li"
         },
         {
-          "c": "- Para un sabor más intenso, marina el salmón toda la noche en el refrigerador.",
+          "c": "- Para un sabor más intenso, marinar el salmón toda la noche en el refrigerador.",
           "i": 39,
           "t": "li"
         },
         {
-          "c": "- Sirve con arroz al vapor y jengibre encurtido para una comida completa.",
+          "c": "- Servir con arroz al vapor y jengibre encurtido para una comida completa.",
           "i": 40,
           "t": "li"
         }
@@ -723,11 +739,48 @@
   ],
   "86883279447e6618": "Curry verde tailandés",
   "8b3b096e8da73475": "kcal",
-  "98629127ba5aa565": "Explorador de recetas multilingüe que ajusta cantidades, temperaturas y recuentos de porciones según la configuración regional.",
-  "9cd16660550ba70e": "Carbohidratos",
+  "92f47b7cab2fcb4c": {
+    "c": [
+      "Desarrollado con ",
+      {
+        "c": "General Translation",
+        "i": 2,
+        "t": "a"
+      },
+      " y ",
+      {
+        "c": "Next.js",
+        "i": 3,
+        "t": "a"
+      },
+      ". Estilizado con ",
+      {
+        "c": "Tailwind CSS",
+        "i": 4,
+        "t": "a"
+      },
+      ". Inspiración de recetas de ",
+      {
+        "c": "Allrecipes",
+        "i": 5,
+        "t": "a"
+      },
+      " y ",
+      {
+        "c": "Serious Eats",
+        "i": 6,
+        "t": "a"
+      },
+      "."
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "98629127ba5aa565": "Explorador de recetas multilingüe, con cantidades, temperaturas y recuentos de porciones adaptados a la configuración regional.",
+  "9cd16660550ba70e": "Hidratos de carbono",
   "9cffb339161c1de7": [
     {
-      "c": "Boeuf Bourguignon Clásico",
+      "c": "Bœuf Bourguignon Clásico",
       "i": 1,
       "t": "h1"
     },
@@ -790,7 +843,7 @@
               "k": "_gt_n_12",
               "v": "n"
             },
-            " g de cebollitas perla, peladas"
+            " g de cebollitas, peladas"
           ],
           "i": 11,
           "t": "li"
@@ -917,7 +970,7 @@
               "i": 32,
               "t": "span"
             },
-            "Marina la ternera en el vino con el tomillo y las hojas de laurel en el refrigerador durante al menos ",
+            "Marina la ternera en vino con tomillo y hojas de laurel en el refrigerador durante al menos ",
             {
               "i": 33,
               "k": "_gt_n_33",
@@ -971,7 +1024,7 @@
               "i": 41,
               "t": "span"
             },
-            "Saltea las zanahorias, las cebollitas perla y el ajo hasta que estén ligeramente dorados."
+            "Saltea las zanahorias, las cebollitas y el ajo hasta que estén ligeramente dorados."
           ],
           "i": 40,
           "t": "li"
@@ -1111,7 +1164,7 @@
       "t": "h1"
     },
     {
-      "c": "Un clásico pollo asado con hierbas frescas y un vibrante sabor a limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este plato una cena perfecta para cualquier día de la semana.",
+      "c": "Un clásico pollo asado con hierbas frescas y un vibrante toque de limón. La piel crujiente, la carne jugosa y las hierbas aromáticas hacen de este plato una cena perfecta para cualquier día de la semana.",
       "i": 2,
       "t": "p"
     },
@@ -1130,7 +1183,7 @@
               "k": "_gt_n_6",
               "v": "n"
             },
-            " pollo entero (de aproximadamente ",
+            " pollo entero (aproximadamente ",
             {
               "i": 7,
               "k": "_gt_n_7",
@@ -1250,13 +1303,13 @@
               "i": 25,
               "t": "span"
             },
-            "Precalentar el horno a ",
+            "Precalienta el horno a ",
             {
               "i": 26,
               "k": "_gt_n_26",
               "v": "n"
             },
-            " °F. Secar el pollo con papel de cocina."
+            " °F. Seca el pollo con papel absorbente."
           ],
           "i": 24,
           "t": "li"
@@ -1268,7 +1321,7 @@
               "i": 28,
               "t": "span"
             },
-            "Mezclar el aceite de oliva, el ajo picado, el romero picado y el tomillo en un bol pequeño."
+            "Mezcla el aceite de oliva, el ajo picado, el romero picado y el tomillo en un tazón pequeño."
           ],
           "i": 27,
           "t": "li"
@@ -1280,7 +1333,7 @@
               "i": 30,
               "t": "span"
             },
-            "Untar la mezcla de hierbas por todo el pollo, incluso por debajo de la piel."
+            "Frota la mezcla de hierbas por todo el pollo, incluyendo debajo de la piel."
           ],
           "i": 29,
           "t": "li"
@@ -1292,7 +1345,7 @@
               "i": 32,
               "t": "span"
             },
-            "Exprimir un limón sobre el pollo y colocar el otro limón, cortado por la mitad, dentro de la cavidad."
+            "Exprime un limón sobre el pollo y coloca el otro limón, cortado por la mitad, dentro de la cavidad."
           ],
           "i": 31,
           "t": "li"
@@ -1304,7 +1357,7 @@
               "i": 34,
               "t": "span"
             },
-            "Asar hasta que la temperatura interna alcance ",
+            "Asa hasta que la temperatura interna alcance ",
             {
               "i": 35,
               "k": "_gt_n_35",
@@ -1322,7 +1375,7 @@
               "i": 37,
               "t": "span"
             },
-            "Dejar reposar ",
+            "Deja reposar ",
             {
               "i": 38,
               "k": "_gt_n_38",
@@ -1345,17 +1398,17 @@
     {
       "c": [
         {
-          "c": "- Llevar el pollo a temperatura ambiente antes de asarlo para una cocción más uniforme.",
+          "c": "- Lleva el pollo a temperatura ambiente antes de asarlo para una cocción más uniforme.",
           "i": 41,
           "t": "li"
         },
         {
-          "c": "- Atar las patas con hilo de cocina para que el pollo se cocine de manera uniforme.",
+          "c": "- Ata las patas con hilo de cocina para que el pollo se cocine de manera pareja.",
           "i": 42,
           "t": "li"
         },
         {
-          "c": "- Guardar los jugos de la bandeja para preparar una salsa rápida mezclando harina y caldo.",
+          "c": "- Guarda los jugos de la bandeja para preparar una salsa rápida mezclando harina y caldo.",
           "i": 43,
           "t": "li"
         }
@@ -1364,8 +1417,8 @@
       "t": "ul"
     }
   ],
-  "cb5ef1bca83a2898": "Mariscos",
-  "cf7cb589d2908715": "Explorador de recetas | Traducción genérica",
+  "cb5ef1bca83a2898": "Pescados y mariscos",
+  "cf7cb589d2908715": "Explorador de recetas | Traducción general",
   "d7d74410bb137358": [
     {
       "c": "Risotto de Setas Silvestres",
@@ -1518,7 +1571,7 @@
               "i": 26,
               "t": "span"
             },
-            "Saltea las setas laminadas en mantequilla hasta que estén doradas y resérvalas."
+            "Saltea las setas laminadas en mantequilla hasta que estén doradas y reserva."
           ],
           "i": 25,
           "t": "li"
@@ -1572,7 +1625,7 @@
               "i": 35,
               "t": "span"
             },
-            "Agrega el caldo caliente un cucharón a la vez, removiendo constantemente y esperando a que cada adición se absorba."
+            "Añade el caldo caliente un cucharón a la vez, removiendo constantemente y esperando a que cada adición se absorba."
           ],
           "i": 34,
           "t": "li"
@@ -1584,7 +1637,7 @@
               "i": 37,
               "t": "span"
             },
-            "Cuando el arroz esté cremoso y al dente, incorpora las setas, el Parmesano rallado y el resto de la mantequilla."
+            "Cuando el arroz esté cremoso y al dente, incorpora las setas, el Parmesano rallado y la mantequilla restante."
           ],
           "i": 36,
           "t": "li"
@@ -1613,7 +1666,7 @@
     {
       "c": [
         {
-          "c": "- Nunca laves las setas bajo el agua del grifo. Límpialas con un paño húmedo.",
+          "c": "- Nunca laves las setas bajo el agua corriente. Límpialas con un paño húmedo.",
           "i": 42,
           "t": "li"
         },
@@ -1645,7 +1698,7 @@
   },
   "f70a39abe71d3611": [
     {
-      "c": "Tajín de Cordero con Especias",
+      "c": "Tajín de Cordero Especiado",
       "i": 1,
       "t": "h1"
     },
@@ -1821,7 +1874,7 @@
               "i": 30,
               "t": "span"
             },
-            "Dora el cordero en tandas en una olla de fondo grueso o cazuela, luego resérvalo."
+            "Dora el cordero en tandas en una olla pesada o cazuela, luego resérvalo."
           ],
           "i": 29,
           "t": "li"
@@ -1920,7 +1973,7 @@
           "t": "li"
         },
         {
-          "c": "- Este plato sabe aún mejor al día siguiente, cuando los sabores siguen desarrollándose.",
+          "c": "- Este plato sabe aún mejor al día siguiente, cuando los sabores continúan desarrollándose.",
           "i": 47,
           "t": "li"
         }
@@ -1929,5 +1982,5 @@
       "t": "ul"
     }
   ],
-  "f7e213e4b0bfb007": "Tajín de cordero especiado"
+  "f7e213e4b0bfb007": "Tajine de cordero especiado"
 }

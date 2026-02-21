@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import { GTProvider } from "gt-next";
+import { T } from "gt-next";
 import { getGT } from "gt-next/server";
 import "./globals.css";
 
@@ -59,7 +60,22 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <body className={`${geistSans.variable} antialiased`}>
-        <GTProvider>{children}</GTProvider>
+        <GTProvider>
+          <div className="bg-blue-600 text-white text-center text-xs py-2 px-4">
+            <T>
+              This is an example app built with{" "}
+              <a href="https://generaltranslation.com" className="underline font-medium" target="_blank" rel="noopener noreferrer">
+                General Translation
+              </a>
+              . View the{" "}
+              <a href="https://github.com/gt-examples/recipe-app" className="underline font-medium" target="_blank" rel="noopener noreferrer">
+                source code on GitHub
+              </a>
+              .
+            </T>
+          </div>
+          {children}
+        </GTProvider>
       </body>
     </html>
   );
